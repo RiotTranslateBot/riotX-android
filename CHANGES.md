@@ -49,6 +49,7 @@ Bugfix 🐛:
  - Use correct URL for SSO connection (#1178)
  - Emoji completion :tada: does not completes to 🎉 like on web (#1285)
  - Fix bad Shield Logic for DM (#963)
+ - After jump to unread, newer messages are never loaded (#1008)
 
 Translations 🗣:
  -
